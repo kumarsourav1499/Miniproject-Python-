@@ -8,7 +8,7 @@ def check_equality(inp,rand):
         
 a=random.randint(1,10)
 
-b=int(input("Enter value between 1-10::"))
+b=int(input("Enter value between 1-25::"))
 
 print("magic number:"+str(a))
 
