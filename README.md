@@ -1,1 +1,1 @@
-# Miniproject-Python-(Small basic programs)
+# Miniproject:Python-(Small basic programs)
